@@ -2,9 +2,9 @@
 
 <br />
 <p align="center">
-  <!-- <p align="center">
-    <img src="https://github.com/shreeratn/Mask-detection-COVID/blob/main/archive/svg/002-mask-1.svg" width = "300" height = "300">
-    </p> -->
+  <p align="center">
+    <img src="https://github.com/shreeratn/human-typing-simulation/blob/main/Icon.svg" width = "300" height = "300">
+    </p>
   <h3 align="center">
     Human typing simulator in python</h3>
   <p align="center">
