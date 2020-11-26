@@ -23,10 +23,9 @@
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+  - [--IMPORTANT--:](#--important--)
   - [Usage](#usage)
-  - [IMPORTANT:](#important)
   - [Roadmap](#roadmap)
-  - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
@@ -83,19 +82,34 @@ pip install time --user
 ```
 
 <!-- USAGE EXAMPLES -->
+
+## --IMPORTANT--:
+
+**Warning: You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be leathal and crash youlethalm in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
+
 ## Usage
 
-## IMPORTANT:
-
-Run the main.py in terminal
+1. Run the main.py in terminal
+2. Estimate time you need before the simulator starts typing which should include:
+   * Time required changing the window to the editor you want to use
+   *   Placing the cursor at starting position where you want to start the simulator to type in 
 
 <!-- ROADMAP -->
 ## Roadmap
 
+26-11-20: Added timer function for delaying the start of simulator
+
+{upcoming}: Add a personalized keyphrase combination to interrupt the simulator
+
+{upcoming}: Pause and play in simulation
+
+{upcoming}: Pack it into an EXE file for people not knowing how to use python or terminal
+
+{upcoming}: Final update for interactive application with latest UI
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Contributing
 
 Any contributions you make are **greatly appreciated**.
 
@@ -103,7 +117,7 @@ Any contributions you make are **greatly appreciated**.
 2. Create your Feature Branch
 3. Commit your Changes
 4. Push to the Branch
-5. Open a Pull Request
+5. Open a Pull Request -->
 
 
 
@@ -127,4 +141,4 @@ Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* 
+* This was made by me and is not copied from any other sources
