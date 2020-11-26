@@ -14,7 +14,7 @@
 </p>
 
 
-### [Click here for Releases](https://github.com/shreeratn/human-typing-simulation/releases)
+### [![version](https://img.shields.io/github/v/tag/shreeratn/human-typing-simulation?color=ef4041&label=Latest%20Version&logo=Latest%20release&style=for-the-badge)](https://github.com/shreeratn/human-typing-simulation/releases)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -23,11 +23,13 @@
 - [Human typing simulator](#human-typing-simulator)
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
-    - [Built With](#built-with)
+<!--    - [Built With](#built-with)
+ -->
   - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
+<!--    - [Prerequisites](#prerequisites)
     - [Installation](#installation)
   - [--IMPORTANT--:](#--important--)
+ -->
   - [Usage](#usage)
   - [Roadmap](#roadmap)
   - [License](#license)
