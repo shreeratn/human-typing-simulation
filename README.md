@@ -25,7 +25,6 @@
   - [About the Project](#about-the-project)
   - [Getting Started](#getting-started)
   - [Usage](#usage)
-  - [Roadmap](#roadmap)
   - [License](#license)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
@@ -89,20 +88,12 @@ pip install pyperclip --user
    * Time required changing the window to the editor you want to use
    *   Placing the cursor at starting position where you want to start the simulator to type in 
 
-<!-- ROADMAP -->
-## **[![roadmap-icon](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/shreeratn/human-typing-simulation/projects/2)**
+<br />
 
-`26-11-20`: Added timer function for delaying the start of simulator
+<!--ROADMAP -->
+## **[![Roadmap](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/shreeratn/human-typing-simulation/projects/2)**
 
-`{upcoming}`: Add a personalized "key phrase" combination to interrupt the simulator
-
-`{upcoming}`: Pause and play in simulation
-
-`{upcoming}`: Pack it into an EXE file for people not knowing how to use python or terminal
-
-`{upcoming}`: Final update for interactive application with latest UI
-
-
+<br />
 <!-- CONTRIBUTING -->
 <!-- ## Contributing
 
