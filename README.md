@@ -60,27 +60,21 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites and Installations
 
-List of things you need to use the software and how to install them.
-* pyautogui
-* pyperclip
-* time
+List of things you need to use the software and how to install them:
 
 
-### Installation
+[![pyautogui-icon](https://img.shields.io/badge/Package%20needed-PyAutoGUI-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/PyAutoGUI/)
 
-* pyautogui
 ```sh
 pip install pyautogui --user
 ```
-* pyperclip
+
+[![pyperclip-icon](https://img.shields.io/badge/Package%20needed-PyPerClip-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/pyperclip/)
+
 ```sh
 pip install matplotlib --user
-```
-* time
-```sh
-pip install time --user
 ```
 
 <!-- USAGE EXAMPLES -->
