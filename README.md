@@ -51,7 +51,9 @@ Here's why:
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+## [![forthebadgepython](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
