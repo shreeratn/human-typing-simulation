@@ -14,7 +14,8 @@
 </p>
 
 
-### [![version](https://img.shields.io/github/v/tag/shreeratn/human-typing-simulation?color=ef4041&label=Latest%20Version&logo=Latest%20release&style=for-the-badge)](https://github.com/shreeratn/human-typing-simulation/releases)
+### [![version](https://img.shields.io/github/v/tag/shreeratn/human-typing-simulation?color=ef4041&label=Latest%20Version&logo=Latest%20release&style=for-the-badge)](https://github.com/shreeratn/human-typing-simulation/releases) **[![Roadmap](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/shreeratn/human-typing-simulation/projects/2)**
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -90,10 +91,7 @@ pip install pyperclip --user
 
 <br />
 
-<!--ROADMAP -->
-## **[![Roadmap](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/shreeratn/human-typing-simulation/projects/2)**
 
-<br />
 <!-- CONTRIBUTING -->
 <!-- ## Contributing
 
