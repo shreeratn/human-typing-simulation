@@ -74,10 +74,13 @@ pip install pyperclip --user
 ```
 
 <!-- USAGE EXAMPLES -->
+<br />
 
 **[![warning-icon](https://img.shields.io/badge/WARNING-red?style=for-the-badge&color=ea004c)]()**
 
 **You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
+
+<br />
 
 ## Usage
 
@@ -87,7 +90,7 @@ pip install pyperclip --user
    *   Placing the cursor at starting position where you want to start the simulator to type in 
 
 <!-- ROADMAP -->
-## Roadmap
+## **[![roadmap-icon](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/shreeratn/human-typing-simulation/projects/2)**
 
 `26-11-20`: Added timer function for delaying the start of simulator
 
