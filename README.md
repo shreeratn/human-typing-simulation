@@ -23,13 +23,11 @@
 - [Human typing simulator](#human-typing-simulator)
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
-<!--    - [Built With](#built-with)
- -->
+<!--    - [Built With](#built-with)-->
   - [Getting Started](#getting-started)
 <!--    - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [--IMPORTANT--:](#--important--)
- -->
+  - [--IMPORTANT--:](#--important--)-->
   - [Usage](#usage)
   - [Roadmap](#roadmap)
   - [License](#license)
@@ -133,8 +131,7 @@ Shree Ratn
 
 [<img src="https://img.shields.io/badge/ShreeRatn%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ratn_shree)
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/shreeratn)
-
-Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/shreeratn/)
 
 
 
