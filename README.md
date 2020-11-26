@@ -97,15 +97,15 @@ pip install time --user
 <!-- ROADMAP -->
 ## Roadmap
 
-26-11-20: Added timer function for delaying the start of simulator
+`26-11-20`: Added timer function for delaying the start of simulator
 
-{upcoming}: Add a personalized "key phrase" combination to interrupt the simulator
+`{upcoming}`: Add a personalized "key phrase" combination to interrupt the simulator
 
-{upcoming}: Pause and play in simulation
+`{upcoming}`: Pause and play in simulation
 
-{upcoming}: Pack it into an EXE file for people not knowing how to use python or terminal
+`{upcoming}`: Pack it into an EXE file for people not knowing how to use python or terminal
 
-{upcoming}: Final update for interactive application with latest UI
+`{upcoming}`: Final update for interactive application with latest UI
 
 
 <!-- CONTRIBUTING -->
