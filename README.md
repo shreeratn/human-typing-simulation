@@ -136,8 +136,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Shree Ratn 
-- [Twitter](https://twitter.com/ratn_shree)
-- [LinkedIn](https://linkedin.com/in/shreeratn)
+[<img src="https://img.shields.io/badge/ShreeRatn%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ratn_shree)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/shreeratn)
 
 Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
 
