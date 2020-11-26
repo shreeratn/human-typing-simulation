@@ -74,7 +74,7 @@ pip install pyautogui --user
 [![pyperclip-icon](https://img.shields.io/badge/Package%20needed-PyPerClip-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/pyperclip/)
 
 ```sh
-pip install matplotlib --user
+pip install pyperclip --user
 ```
 
 <!-- USAGE EXAMPLES -->
