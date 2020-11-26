@@ -41,7 +41,7 @@ Instead of directly copying the contents in a flash, this program is intended to
 
 Here's why:
 
-* Made by a student for fellow students , this can be used to present screen of typing homework live on screen from clipboard without user interference
+* Made by a student for fellow students, this can be used to present screen of typing homework live on screen from clipboard without user interference
 * Manual labor can be reduced.
 
 
@@ -85,7 +85,7 @@ pip install time --user
 
 ## --IMPORTANT--:
 
-**Warning: You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be leathal and crash youlethalm in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
+**Warning: You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
 
 ## Usage
 
@@ -99,7 +99,7 @@ pip install time --user
 
 26-11-20: Added timer function for delaying the start of simulator
 
-{upcoming}: Add a personalized keyphrase combination to interrupt the simulator
+{upcoming}: Add a personalized "key phrase" combination to interrupt the simulator
 
 {upcoming}: Pause and play in simulation
 
