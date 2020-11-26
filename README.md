@@ -1,2 +1,3 @@
-# human typing simulation
- Simulate human typing from clipboard 
+# Human typing simulation
+ Simulate human typing from clipboard
+
