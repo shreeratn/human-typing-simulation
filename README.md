@@ -13,6 +13,10 @@
   </p>
 </p>
 
+
+### [Click here for Releases](https://github.com/shreeratn/human-typing-simulation/releases)
+
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
