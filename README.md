@@ -14,7 +14,8 @@
 </p>
 
 
-### [Click here for Releases](https://github.com/shreeratn/human-typing-simulation/releases)
+### [![version](https://img.shields.io/github/v/tag/shreeratn/human-typing-simulation?color=ef4041&label=Latest%20Version&logo=Latest%20release&style=for-the-badge)](https://github.com/shreeratn/human-typing-simulation/releases) **[![Roadmap](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/users/shreeratn/projects/1)**
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -23,13 +24,8 @@
 - [Human typing simulator](#human-typing-simulator)
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
-    - [Built With](#built-with)
   - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [--IMPORTANT--:](#--important--)
   - [Usage](#usage)
-  - [Roadmap](#roadmap)
   - [License](#license)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
@@ -51,10 +47,8 @@ Here's why:
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
 
-Here is list of MAJOR dependencies for this project (for running this you will need a few more too; and how to install them is shown further below)
-* [Python](https://www.python.org/)
+## [![forthebadgepython](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 <!-- GETTING STARTED -->
@@ -62,34 +56,31 @@ Here is list of MAJOR dependencies for this project (for running this you will n
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites and Installations
 
-List of things you need to use the software and how to install them.
-* pyautogui
-* pyperclip
-* time
+List of things you need to use the software and how to install them:
 
 
-### Installation
+[![pyautogui-icon](https://img.shields.io/badge/Package%20needed-PyAutoGUI-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/PyAutoGUI/)
 
-* pyautogui
 ```sh
 pip install pyautogui --user
 ```
-* pyperclip
+
+[![pyperclip-icon](https://img.shields.io/badge/Package%20needed-PyPerClip-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/pyperclip/)
+
 ```sh
-pip install matplotlib --user
-```
-* time
-```sh
-pip install time --user
+pip install pyperclip --user
 ```
 
 <!-- USAGE EXAMPLES -->
+<br />
 
-## --IMPORTANT--:
+**[![warning-icon](https://img.shields.io/badge/WARNING-red?style=for-the-badge&color=ea004c)]()**
 
-**Warning: You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
+**You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
+
+<br />
 
 ## Usage
 
@@ -98,18 +89,7 @@ pip install time --user
    * Time required changing the window to the editor you want to use
    *   Placing the cursor at starting position where you want to start the simulator to type in 
 
-<!-- ROADMAP -->
-## Roadmap
-
-`26-11-20`: Added timer function for delaying the start of simulator
-
-`{upcoming}`: Add a personalized "key phrase" combination to interrupt the simulator
-
-`{upcoming}`: Pause and play in simulation
-
-`{upcoming}`: Pack it into an EXE file for people not knowing how to use python or terminal
-
-`{upcoming}`: Final update for interactive application with latest UI
+<br />
 
 
 <!-- CONTRIBUTING -->
@@ -136,10 +116,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Shree Ratn 
-- [Twitter](https://twitter.com/ratn_shree)
-- [LinkedIn](https://linkedin.com/in/shreeratn)
 
-Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
+[<img src="https://img.shields.io/badge/ShreeRatn%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ratn_shree)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/shreeratn)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/shreeratn/)
 
 
 
