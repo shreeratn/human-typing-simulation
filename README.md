@@ -51,11 +51,7 @@ Here's why:
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-
-Here is list of MAJOR dependencies for this project (for running this you will need a few more too; and how to install them is shown further below)
-* [Python](https://www.python.org/)
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
