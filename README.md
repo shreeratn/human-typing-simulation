@@ -79,9 +79,9 @@ pip install pyperclip --user
 
 <!-- USAGE EXAMPLES -->
 
-## --IMPORTANT--:
+**[![warning-icon](https://img.shields.io/badge/WARNING-red?style=for-the-badge&color=ea004c)]()**
 
-**Warning: You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
+**You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
 
 ## Usage
 
